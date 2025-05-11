@@ -55,7 +55,7 @@ Puedes clonar este repositorio en tu máquina local utilizando el siguiente coma
 git clone https://github.com/Fots4MO/chatbot_llm_project.git
 ```
 
-##Instalación de dependencias
+## Instalación de dependencias
 
 **Instalar Python**: Asegúrate de tener Python 3.7 o superior instalado en tu máquina. Puedes descargarlo desde python.org.
 
@@ -65,7 +65,7 @@ Crear un entorno virtual (opcional pero recomendado):
 python -m venv .venv
 ```
 
-###Activar el entorno virtual:
+### Activar el entorno virtual:
 
 **En Windows**:
 
@@ -85,7 +85,7 @@ source .venv/bin/actívate
 pip install -r requirements.txt
 ```
 
-###Ejecutar el proyecto:
+### Ejecutar el proyecto:
 
 Puedes ejecutar el proyecto con el siguiente comando:
 
