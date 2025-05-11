@@ -4,6 +4,8 @@
 
 Este proyecto es una implementación de un **Chatbot utilizando modelos de lenguaje de tipo LLM** (Large Language Model), como GPT2 y otros modelos optimizados para tareas de conversación. El chatbot está diseñado para procesar entradas del usuario, generar respuestas coherentes, mantener el contexto de la conversación, y realizar optimizaciones de rendimiento.
 
+## Lenguaje: Ingles
+
 ## Funcionalidades
 
 - **Conversación básica**: El chatbot es capaz de mantener una conversación sencilla, respondiendo preguntas y siguiendo un flujo básico de diálogo.
